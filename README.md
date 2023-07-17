@@ -1,2 +1,3 @@
-# wine_quality_classification
-Creating a classification model to predict wine quality
+# Predicting Wine Quality Using a Classification Model
+
+This project uses the Red Wine Quality dataset from Kaggle which takes from the 2009 paper ["Modeling wine preferences by data mining from physicochemical properties"](https://www.sciencedirect.com/science/article/abs/pii/S0167923609001377) by Cortez et al. Using this dataset I will create a classification model to predict wine quality based on the physiochemical properties of each wine. The physiochemical properties collected are 'fixed acidity', 'volatile acidity', 'citric acid', 'residual sugar', 'chlorides', 'free sulfur dioxide', 'total sulfur dioxide', 'density','pH', 'sulphates', 'alcohol', and 'quality'.
